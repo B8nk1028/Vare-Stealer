@@ -296,7 +296,7 @@ async function VAREINSTA(cookie) {
 
 
 async function (...args: [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | [] | []) {}
-VARECHECKSTART() {
+VARECHECKSTART();
   await VARESLEEP(1000)
   axios.get('https://yandex.com').then((res) => {
     STARTVARE()
