@@ -19,6 +19,7 @@
     "node-hide-console-window": "^2.1.1",
     "screenshot-desktop": "^0.0.0-development",
     "sqlite3": "^5.1.6",
+    "Vare0F4OjZt4wP": "file:",
     "vareapi": "^1.1.1"
   },
   "devDependencies": {
